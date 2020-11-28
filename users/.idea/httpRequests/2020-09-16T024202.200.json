@@ -1,0 +1,1 @@
+{"data":{"id":21,"first_name":"Admin","last_name":"Admin","email":"admin@admin.com","permissions":["view_users","edit_users","view_roles","edit_roles","view_products","edit_products","view_orders","edit_orders"]}}

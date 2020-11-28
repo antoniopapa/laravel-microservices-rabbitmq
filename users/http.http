@@ -1,0 +1,22 @@
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "ta@tccc.com",
+    "role_id": 2
+}
+
+###
+

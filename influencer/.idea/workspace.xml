@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3b11247-edb4-47e1-aba0-cebd3d280254" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/antoniopapa/common" />
+      <path value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/vladimir-yuldashev/laravel-queue-rabbitmq" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1heA6rdyRUY3tiqSk2T2hMdc4FL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Console/Commands" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Console/Commands" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/Http" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/app/Models" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8003/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZGQyNmIxMTIzYzBkZGVkZTM3YjI5Y2VhMzMwMWNjNTRlMWE5YzRmZjFhN2IxODQ3OWI1NjEyNzc0MjUzMzRiMWJkMDNmOGNlN2FlMzMwOGEiLCJpYXQiOjE2MDA1MTg3NDEsIm5iZiI6MTYwMDUxODc0MSwiZXhwIjoxNjMyMDU0NzQxLCJzdWIiOiI0NSIsInNjb3BlcyI6WyJpbmZsdWVuY2VyIl19.sDlp-DAkogy4RONjg5Ff7WBptqrcNWtjOg39Wlz1EckyU7p1veqtv9Gbvz6FGt1N6CAe-BEmLgdo6NgJ8uZBainiilpNcl3hlI23ATyh4Ewn874rPhoJQkOpjYvTFjjKh80wsagMCtNpIo_J8ei3pXLoONHiDcZjs7o5FnqE1sw5RoEZVmtZqFJNMp9KyD3psZQaZXwiXTpJFvifDxEsYAN7h1UDf1D-yzr6mpTs3EzbKFfKA49IlbbLAzRDy1CPl1OfYREUzbRx2GMW-lo4LSxJgGsou3XbbuQfjGZVlnf_2K1hmZ2n6ChuP6E1oJCK4qoLu1Si3zSwcRjktco8nB8qoXSY9i5tvQtcuxtjjo4Hqf6Xz0apnjA7-oo6EUbFeu5ppBFxiWfEZrjK5wKOEoP-xYt7t3C_R2qd7jUX29JTx9NTow4RKaJdcdMs8JFOq0kL4auF4pmMQR46TIg1OQb4-6CvfhIjmIdWkbcjld0_HtE1iYA9CC4edgWNsmR2PbzGyCKZg7TfAmm0-rsOqiGvE7CaMTe9eBs06GG8nHItnq-MCuUrBIDFcxnqgWBEf4VK6tzTQj2NvhXMntpH4CXGgo97vhNgkkiNT3owpu9QLTC_vwrWmjbrgjezMJcyXbkMyBe-YHkx0QxYGw0FtEUFktwon7CnTaJKSjkop1g" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4300" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4300/" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.phpunit.xml">
+    <configuration name="http#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.http#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3b11247-edb4-47e1-aba0-cebd3d280254" name="Default Changelist" comment="" />
+      <created>1600361011583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600361011583</updated>
+      <workItem from="1600361012617" duration="977000" />
+      <workItem from="1600423166398" duration="7178000" />
+      <workItem from="1600450735605" duration="11000" />
+      <workItem from="1600513296873" duration="4460000" />
+      <workItem from="1600587106628" duration="4292000" />
+      <workItem from="1600620135589" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="333" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode" timestamp="1600424130970">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="678" y="333" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600424130970" />
+    <state x="690" y="198" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog.inPresentationMode" timestamp="1600433646135">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="690" y="198" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600433646135" />
+    <state width="2506" height="447" key="GridCell.Tab.0.bottom" timestamp="1600550535702">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2560" height="412" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1600519402058">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2560" height="412" key="GridCell.Tab.0.bottom.inPresentationMode/-1920.263.1920.1177/0.0.2560.1440@0.0.2560.1440" timestamp="1600519402058" />
+    <state width="2506" height="447" key="GridCell.Tab.0.bottom/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600520019359" />
+    <state width="2506" height="447" key="GridCell.Tab.0.bottom/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600550535702" />
+    <state width="2506" height="447" key="GridCell.Tab.0.center" timestamp="1600550535700">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2560" height="412" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1600519402056">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2560" height="412" key="GridCell.Tab.0.center.inPresentationMode/-1920.263.1920.1177/0.0.2560.1440@0.0.2560.1440" timestamp="1600519402056" />
+    <state width="2506" height="447" key="GridCell.Tab.0.center/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600520019357" />
+    <state width="2506" height="447" key="GridCell.Tab.0.center/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600550535700" />
+    <state width="2506" height="447" key="GridCell.Tab.0.left" timestamp="1600550535699">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2560" height="412" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1600519402055">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2560" height="412" key="GridCell.Tab.0.left.inPresentationMode/-1920.263.1920.1177/0.0.2560.1440@0.0.2560.1440" timestamp="1600519402055" />
+    <state width="2506" height="447" key="GridCell.Tab.0.left/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600520019356" />
+    <state width="2506" height="447" key="GridCell.Tab.0.left/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600550535699" />
+    <state width="2506" height="447" key="GridCell.Tab.0.right" timestamp="1600550535701">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2560" height="412" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1600519402057">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2560" height="412" key="GridCell.Tab.0.right.inPresentationMode/-1920.263.1920.1177/0.0.2560.1440@0.0.2560.1440" timestamp="1600519402057" />
+    <state width="2506" height="447" key="GridCell.Tab.0.right/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600520019358" />
+    <state width="2506" height="447" key="GridCell.Tab.0.right/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600550535701" />
+    <state width="579" height="445" key="SwitcherDM" timestamp="1600589378209">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1221" height="604" key="SwitcherDM.inPresentationMode" timestamp="1600593923785">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1221" height="604" key="SwitcherDM.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600593923785" />
+    <state width="1221" height="648" key="SwitcherDM.inPresentationMode/-1920.263.1920.1177/0.0.2560.1440@0.0.2560.1440" timestamp="1600519434384" />
+    <state width="1221" height="604" key="SwitcherDM.inPresentationMode/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600591295697" />
+    <state width="579" height="445" key="SwitcherDM/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600589378209" />
+    <state x="630" y="195" width="1300" height="1050" key="find.popup.inPresentationMode" timestamp="1600427930696">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="630" y="195" width="1300" height="1050" key="find.popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600427930696" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1600520693622">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="526" y="0" width="1508" height="3208" key="search.everywhere.popup.inPresentationMode" timestamp="1600590008411">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="526" y="0" width="1508" height="3208" key="search.everywhere.popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600590008411" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600520693622" />
+  </component>
+</project>

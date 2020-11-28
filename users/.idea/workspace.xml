@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5639718-3a4b-4138-b028-bd6b115ec42c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/defuse/php-encryption" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hY5t2CaNBqkzP7qlIBHo7d3ZzD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/users/create" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;tt&quot;,&#10;    &quot;last_name&quot;: &quot;tt&quot;,&#10;    &quot;email&quot;: &quot;ta@tccc.com&quot;,&#10;    &quot;role_id&quot;: 2&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/users/create" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;tt&quot;,&#10;    &quot;last_name&quot;: &quot;tt&quot;,&#10;    &quot;email&quot;: &quot;ta@tcc.com&quot;,&#10;    &quot;role_id&quot;: 2&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/users/create" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;tt&quot;,&#10;    &quot;last_name&quot;: &quot;tt&quot;,&#10;    &quot;email&quot;: &quot;t@tcc.com&quot;,&#10;    &quot;role_id&quot;: 2&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/users/create" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;tt&quot;,&#10;    &quot;last_name&quot;: &quot;tt&quot;,&#10;    &quot;email&quot;: &quot;t@tcc.com&quot;,&#10;    &quot;role_id&quot;: 2&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/users/create" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;tt&quot;,&#10;    &quot;last_name&quot;: &quot;tt&quot;,&#10;    &quot;email&quot;: &quot;t@r.com&quot;,&#10;    &quot;password&quot;: 1234,&#10;    &quot;role_id&quot;: 2&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/users/create" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;tt&quot;,&#10;    &quot;last_name&quot;: &quot;tt&quot;,&#10;    &quot;email&quot;: &quot;t@t.com&quot;,&#10;    &quot;password&quot;: 1234,&#10;    &quot;role_id&quot;: 2&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/users/create" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;tt&quot;,&#10;    &quot;last_name&quot;: &quot;tt&quot;,&#10;    &quot;email&quot;: &quot;t@t.com&quot;,&#10;    &quot;password&quot;: 1234,&#10;    &quot;role_id&quot;: 2&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/users/create" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;tt&quot;,&#10;    &quot;last_name&quot;: &quot;tt&quot;,&#10;    &quot;email&quot;: &quot;t@t.com&quot;,&#10;    &quot;role_id&quot;: 2&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/api/admin/users/1" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="3" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/api/admin/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="page" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;email&quot;: &quot;admin@admin.com&quot;,&#10;    &quot;password&quot;: &quot;password&quot;,&#10;    &quot;scope&quot;: &quot;admin&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDg5MDg0ZDkxYjFiNGRiNWQ2YTdmODY0YTFkYTZkMWI3Y2Q0OThmN2RjOWQ2ZmVmN2I2OTIxZjE1YTJkODcxZGJjNjg5OWU2ZGI1ZWEwMzQiLCJpYXQiOjE2MDAyNTIyOTYsIm5iZiI6MTYwMDI1MjI5NiwiZXhwIjoxNjMxNzg4Mjk2LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.pt7r3KGeaJmS65EnIoZQNNyziK8U07plR30zxz5pTTK4NEToERFkUWBAo6c0EU9hH4CWJXFQGOLzuQeHYOAx9Z2dZ3qvYCpM4KBr2iXzzwqtSQBgtoVMiNhB70zo7k3u_EcGmMm6RknZ-6Fkt-8vhSoDFh5TyQ5Pcd3Tkdys_xVsAD6Wka3KbGq2wkcdS1ZFdWx7y_qvkiC2v1J_k6fpSKzOTOKlYho_z10-tCbMz2XWdrZODXS6tHYq_VihS2bGa6LriuaYDGJznCQz5fiC9yGb6s0eyPdzYELQGxvogxynw5DwEEAe7hwDUqhxFZHmuJSh0CYTx35ExW9Yu5C4FGXxpKXW902H9lwwk-Glg1AAkERoBeZqSE6N9eyvknIiKkXNDwfWDlnBF5C_m-JbKSNWKi4tRHLZFHD0Zte8XrH-kbP5TwRDT5dcMFBHEQB4nDd4ffEiOBw16MXtO52vrdXlK2VgLa_VQpCcPsILg0NDGTqCUUQxXQDo--avCs1F4sCA36snjCgcPRr8s05FnKUqf8DsXtU5VoiakKCDVEtHW1O6isEYT36kQ3y6Xlbv6AmRITrolFSTwQ2j_ZeNtForpTlNp8NB7JqbxnKdb0rAA3HDPX_IPBEQBXXyQ7ZIR-GrNjOLTjLyVTQjHxWtezjUrXdo2MhwOzebvJ1Ud_8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDg5MDg0ZDkxYjFiNGRiNWQ2YTdmODY0YTFkYTZkMWI3Y2Q0OThmN2RjOWQ2ZmVmN2I2OTIxZjE1YTJkODcxZGJjNjg5OWU2ZGI1ZWEwMzQiLCJpYXQiOjE2MDAyNTIyOTYsIm5iZiI6MTYwMDI1MjI5NiwiZXhwIjoxNjMxNzg4Mjk2LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.pt7r3KGeaJmS65EnIoZQNNyziK8U07plR30zxz5pTTK4NEToERFkUWBAo6c0EU9hH4CWJXFQGOLzuQeHYOAx9Z2dZ3qvYCpM4KBr2iXzzwqtSQBgtoVMiNhB70zo7k3u_EcGmMm6RknZ-6Fkt-8vhSoDFh5TyQ5Pcd3Tkdys_xVsAD6Wka3KbGq2wkcdS1ZFdWx7y_qvkiC2v1J_k6fpSKzOTOKlYho_z10-tCbMz2XWdrZODXS6tHYq_VihS2bGa6LriuaYDGJznCQz5fiC9yGb6s0eyPdzYELQGxvogxynw5DwEEAe7hwDUqhxFZHmuJSh0CYTx35ExW9Yu5C4FGXxpKXW902H9lwwk-Glg1AAkERoBeZqSE6N9eyvknIiKkXNDwfWDlnBF5C_m-JbKSNWKi4tRHLZFHD0Zte8XrH-kbP5TwRDT5dcMFBHEQB4nDd4ffEiOBw16MXtO52vrdXlK2VgLa_VQpCcPsILg0NDGTqCUUQxXQDo--avCs1F4sCA36snjCgcPRr8s05FnKUqf8DsXtU5VoiakKCDVEtHW1O6isEYT36kQ3y6Xlbv6AmRITrolFSTwQ2j_ZeNtForpTlNp8NB7JqbxnKdb0rAA3HDPX_IPBEQBXXyQ7ZIR-GrNjOLTjLyVTQjHxWtezjUrXdo2MhwOzebvJ1Ud_8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;email&quot;: &quot;admin@admin.com&quot;,&#10;    &quot;password&quot;: &quot;password&quot;,&#10;    &quot;scope&quot;: &quot;admin&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDg5MDg0ZDkxYjFiNGRiNWQ2YTdmODY0YTFkYTZkMWI3Y2Q0OThmN2RjOWQ2ZmVmN2I2OTIxZjE1YTJkODcxZGJjNjg5OWU2ZGI1ZWEwMzQiLCJpYXQiOjE2MDAyNTIyOTYsIm5iZiI6MTYwMDI1MjI5NiwiZXhwIjoxNjMxNzg4Mjk2LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.pt7r3KGeaJmS65EnIoZQNNyziK8U07plR30zxz5pTTK4NEToERFkUWBAo6c0EU9hH4CWJXFQGOLzuQeHYOAx9Z2dZ3qvYCpM4KBr2iXzzwqtSQBgtoVMiNhB70zo7k3u_EcGmMm6RknZ-6Fkt-8vhSoDFh5TyQ5Pcd3Tkdys_xVsAD6Wka3KbGq2wkcdS1ZFdWx7y_qvkiC2v1J_k6fpSKzOTOKlYho_z10-tCbMz2XWdrZODXS6tHYq_VihS2bGa6LriuaYDGJznCQz5fiC9yGb6s0eyPdzYELQGxvogxynw5DwEEAe7hwDUqhxFZHmuJSh0CYTx35ExW9Yu5C4FGXxpKXW902H9lwwk-Glg1AAkERoBeZqSE6N9eyvknIiKkXNDwfWDlnBF5C_m-JbKSNWKi4tRHLZFHD0Zte8XrH-kbP5TwRDT5dcMFBHEQB4nDd4ffEiOBw16MXtO52vrdXlK2VgLa_VQpCcPsILg0NDGTqCUUQxXQDo--avCs1F4sCA36snjCgcPRr8s05FnKUqf8DsXtU5VoiakKCDVEtHW1O6isEYT36kQ3y6Xlbv6AmRITrolFSTwQ2j_ZeNtForpTlNp8NB7JqbxnKdb0rAA3HDPX_IPBEQBXXyQ7ZIR-GrNjOLTjLyVTQjHxWtezjUrXdo2MhwOzebvJ1Ud_8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;email&quot;: &quot;admin@admin.com&quot;,&#10;    &quot;password&quot;: &quot;password&quot;,&#10;    &quot;scope&quot;: &quot;admin&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8002/api/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;email&quot;: &quot;admin@admin.com&quot;,&#10;    &quot;password&quot;: &quot;password&quot;,&#10;    &quot;scope&quot;: &quot;admin&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;email&quot;: &quot;d@d.com&quot;,&#10;    &quot;password&quot;: &quot;d&quot;,&#10;    &quot;scope&quot;: &quot;admin&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;email&quot;: &quot;d@d.com&quot;,&#10;    &quot;password&quot;: &quot;d&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/register" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;d&quot;,&#10;    &quot;last_name&quot;: &quot;d&quot;,&#10;    &quot;email&quot;: &quot;d@d.com&quot;,&#10;    &quot;password&quot;: &quot;d&quot;,&#10;    &quot;password_confirm&quot;: &quot;d&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/register" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;d&quot;,&#10;    &quot;last_name&quot;: &quot;d&quot;,&#10;    &quot;email&quot;: &quot;d@d.com&quot;,&#10;    &quot;password&quot;: &quot;d&quot;,&#10;    &quot;password_confirm&quot;: &quot;d&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/register" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;d&quot;,&#10;    &quot;last_name&quot;: &quot;d&quot;,&#10;    &quot;email&quot;: &quot;d@d.com&quot;,&#10;    &quot;password&quot;: &quot;d&quot;,&#10;    &quot;password_confirm&quot;: &quot;d&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/register" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;d&quot;,&#10;    &quot;last_name&quot;: &quot;d&quot;,&#10;    &quot;email&quot;: &quot;d@d.com&quot;,&#10;    &quot;password&quot;: &quot;d&quot;,&#10;    &quot;password_confirm&quot;: &quot;d&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/api/register" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json, text/plain, */*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIzIiwianRpIjoiZGE5M2I0Y2U3ZDhmMTBkNWQzMGUwYzA5MTIxZDZmMDk0ZjI4NDkxYmZjZjI1MWQ3OTgwYTFlNjMwYmQ1ZTkwNmI4YzkwNmY1OTdjMzE4ZTUiLCJpYXQiOjE2MDAxMTIwMjgsIm5iZiI6MTYwMDExMjAyOCwiZXhwIjoxNjMxNjQ4MDI4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.kUJvcn59IDADiEm8OwNHuMH44Y7H7DiNzrqOAB6CyUzCv4xsXpZL43XcZtT5qlq1tkfJjNa27_c_ml3dQOJnwUmS86tKbCjOqR6VOccf5YNmLEry-ioXIpUO6n5Fk408mEbHlS3bQkSjOfZUaAz2FzymY25EK3V-QSzNVrE00s8b7pnwBJMSPAtmQmKp528Ryz3inJmuAU0HgbAgQmxHmgyn2XZ8zP4dYV3yOihrTTO_w5h230YcJV4pAX5povW5sMshTx888B3e72QU9DW5DTHGQgDfmuevPVXVKXECpMoWm4tdQ_cORThpzTTD_BDyRUF4JhgISyH1OYb-AeU4L3KauyYYg2GypJ53lZWe87NXc8iYMGuGbAZXrJ8m-0ANOZutmTFiznQmUJe4DG91b5oX9R7Lsr8uRLIYvhvH9dn2Vf4e3WYh5KPZ0JSewbPF-aBDu2T0hAJxfYi1q4CAMBwnhIuZmjSmccu0ZW_5P1Rl25X1opqvuVdhkSRsn9u-x-3mE9yZs1Q_9RFEfGmda4GAOoeJANa6X2m0WDwP_CHnIgxu4crb0qGOzRUQZhqNyN4mSjyo4V7CeocZc4n1dxoX_S2x5dFRGQfkPZW9Mlug3NIS5j28u7oPSB6kj_4vQqB1HDvHIW0M1uwfRBVurf16b7eWK2XWtn3qbQQ3vDk" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Origin" />
+                <option name="value" value="http://localhost:4200" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Site" />
+                <option name="value" value="same-site" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Mode" />
+                <option name="value" value="cors" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Sec-Fetch-Dest" />
+                <option name="value" value="empty" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Referer" />
+                <option name="value" value="http://localhost:4200/register" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Accept-Language" />
+                <option name="value" value="en-US,en;q=0.9,sq;q=0.8,de;q=0.7" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;first_name&quot;: &quot;d&quot;,&#10;    &quot;last_name&quot;: &quot;d&quot;,&#10;    &quot;email&quot;: &quot;d@d.com&quot;,&#10;    &quot;password&quot;: &quot;d&quot;,&#10;    &quot;password_confirm&quot;: &quot;d&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.http#1">
+    <configuration name="http#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.http#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5639718-3a4b-4138-b028-bd6b115ec42c" name="Default Changelist" comment="" />
+      <created>1600175396157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600175396157</updated>
+      <workItem from="1600175397175" duration="8240000" />
+      <workItem from="1600193987871" duration="528000" />
+      <workItem from="1600250767092" duration="11690000" />
+      <workItem from="1600328411978" duration="1710000" />
+      <workItem from="1600335080470" duration="459000" />
+      <workItem from="1600335923739" duration="961000" />
+      <workItem from="1600442573304" duration="1321000" />
+      <workItem from="1600450730250" duration="791000" />
+      <workItem from="1600510245583" duration="4228000" />
+      <workItem from="1600587107664" duration="1964000" />
+      <workItem from="1600620133652" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="333" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode" timestamp="1600178645921">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="678" y="333" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600178645921" />
+    <state x="690" y="198" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog.inPresentationMode" timestamp="1600180016728">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="690" y="198" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600180016728" />
+    <state width="2518" height="423" key="GridCell.Tab.0.bottom" timestamp="1600251867177">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2560" height="411" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1600291997757">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2560" height="411" key="GridCell.Tab.0.bottom.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600276447828" />
+    <state width="2560" height="411" key="GridCell.Tab.0.bottom.inPresentationMode/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600291997757" />
+    <state width="2518" height="423" key="GridCell.Tab.0.bottom/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600251867177" />
+    <state width="2518" height="423" key="GridCell.Tab.0.bottom/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600194851075" />
+    <state width="2518" height="423" key="GridCell.Tab.0.center" timestamp="1600251867176">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2560" height="411" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1600291997756">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2560" height="411" key="GridCell.Tab.0.center.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600276447820" />
+    <state width="2560" height="411" key="GridCell.Tab.0.center.inPresentationMode/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600291997756" />
+    <state width="2518" height="423" key="GridCell.Tab.0.center/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600251867176" />
+    <state width="2518" height="423" key="GridCell.Tab.0.center/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600194851074" />
+    <state width="2518" height="423" key="GridCell.Tab.0.left" timestamp="1600251867174">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2560" height="411" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1600291997756">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2560" height="411" key="GridCell.Tab.0.left.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600276447819" />
+    <state width="2560" height="411" key="GridCell.Tab.0.left.inPresentationMode/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600291997756" />
+    <state width="2518" height="423" key="GridCell.Tab.0.left/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600251867174" />
+    <state width="2518" height="423" key="GridCell.Tab.0.left/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600194851073" />
+    <state width="2518" height="423" key="GridCell.Tab.0.right" timestamp="1600251867176">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2560" height="411" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1600291997756">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2560" height="411" key="GridCell.Tab.0.right.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600276447821" />
+    <state width="2560" height="411" key="GridCell.Tab.0.right.inPresentationMode/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600291997756" />
+    <state width="2518" height="423" key="GridCell.Tab.0.right/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600251867176" />
+    <state width="2518" height="423" key="GridCell.Tab.0.right/-1920.263.1920.1177/0.23.2560.1337@0.23.2560.1337" timestamp="1600194851074" />
+    <state width="526" height="445" key="SwitcherDM" timestamp="1600549475758">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1115" height="648" key="SwitcherDM.inPresentationMode" timestamp="1600519631644">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1115" height="648" key="SwitcherDM.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600519631644" />
+    <state width="526" height="445" key="SwitcherDM/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600549475758" />
+    <state x="998" y="438" width="563" height="627" key="jetbrains.javascript.buildTools.run-task-popup.inPresentationMode" timestamp="1600193682249">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="998" y="438" width="563" height="627" key="jetbrains.javascript.buildTools.run-task-popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600193682249" />
+    <state x="526" y="327" key="run.anything.popup.inPresentationMode" timestamp="1600183612983">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="526" y="327" key="run.anything.popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600183612983" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1600519888784">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="526" y="0" width="1508" height="3208" key="search.everywhere.popup.inPresentationMode" timestamp="1600516765587">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="526" y="0" width="1508" height="3208" key="search.everywhere.popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600516765587" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1600519888784" />
+  </component>
+</project>

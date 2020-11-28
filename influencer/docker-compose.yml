@@ -1,0 +1,50 @@
+version: '3.8'
+services:
+  influencer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      DB_HOST: influencer_db
+      DB_DATABASE: influencer
+      DB_USERNAME: root
+      DB_PASSWORD: root
+      REDIS_HOST: redis
+    command: 'php artisan serve --host=0.0.0.0'
+    volumes:
+      - .:/app
+    ports:
+      - 8003:8000
+    depends_on:
+      - influencer_db
+      - redis
+
+  queue:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: 'php artisan queue:work'
+    environment:
+      DB_HOST: influencer_db
+      DB_DATABASE: influencer
+      DB_USERNAME: root
+      DB_PASSWORD: root
+    depends_on:
+      - influencer_db
+
+  influencer_db:
+    image: mysql:5.7.22
+    environment:
+      MYSQL_DATABASE: influencer
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - ./storage/dbdata:/var/lib/mysql
+    ports:
+      - 33070:3306
+
+  redis:
+    image: redis:latest
+    ports:
+      - 6379:6379

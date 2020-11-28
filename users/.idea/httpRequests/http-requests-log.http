@@ -1,0 +1,699 @@
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "ta@tccc.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T051058.400.json
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "ta@tccc.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T050819.201.json
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "ta@tccc.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T050740.400.json
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "ta@tcc.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T050417.400.json
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@tcc.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T050352.400.json
+
+###
+
+POST http://localhost:8001/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@tcc.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T050344.404.json
+
+###
+
+POST http://localhost:8001/api/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@r.com",
+    "password": 1234,
+    "role_id": 2
+}
+
+<> 2020-09-16T050158.201.json
+
+###
+
+POST http://localhost:8001/api/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@t.com",
+    "password": 1234,
+    "role_id": 2
+}
+
+<> 2020-09-16T050144.500.json
+
+###
+
+POST http://localhost:8001/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@t.com",
+    "password": 1234,
+    "role_id": 2
+}
+
+<> 2020-09-16T050131.404.json
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@t.com",
+    "role_id": 2
+}
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@t.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T044904.200.json
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@t.com",
+    "role_id": 2
+}
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@t.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T044759.200.json
+
+###
+
+POST http://localhost:8000/api/admin/users
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/users/create
+Accept-Language: en-US,en;q=0.9,sq;q=0.8,de;q=0.7
+Content-Type: application/json
+
+{
+    "first_name": "tt",
+    "last_name": "tt",
+    "email": "t@t.com",
+    "role_id": 2
+}
+
+<> 2020-09-16T044728.400.json
+
+###
+
+GET http://localhost:8000/api/admin/users/1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T043235.200.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=2
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T041213.200.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=3
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T041156.200.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T041142.200.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T041033.400.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T041000.400.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T040859.200.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T040740.200.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T035251.200.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T035149.400.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T034833.400.json
+
+###
+
+GET http://localhost:8000/api/admin/users?page=1
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTJhY2VlMGE2ZTdkODYxZjFmOTFhNzA5YTc1ODgyNWI5OGRmY2ExNjk2ODhkZWEzNjBjYzM0MGZkNmI0NmUxZThhMTQzYjRlNmIyZjU3NDciLCJpYXQiOjE2MDAyNjE0ODcsIm5iZiI6MTYwMDI2MTQ4NywiZXhwIjoxNjMxNzk3NDg3LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.32ONoSw0U1vQ4sS5NBR5-9EY13j6MYJruwEZLze-U9_WGsFugl81ui3YFfTBdnTPk4s-kOtAhJoI3BN4um9FEvJTd9YRaOa5tVXx-9nxIlhgQbWw4C5KZgM7bKWdTBAbMCKSa90pqm2oMDUGvpiMf_MIXwD37Yl1g1JhFvrSC8lOH-qrqEje7SdAjWhjMPAHJamlj9-r-FkwuwHbSD8K3A88F_f3JLkxdvgPzJGywahbYSOLOI89BKx3ZqGY6VaoNrNUopKtmCwd-qGwo07Uxpufr6HxcKE5GFnJIzdzYGnyhs4KZCvbF6p5GYIIBoi7pSRS0Bpny0XLJeap4fTgf3mf0hFDFLt26uO7PE-gm3TG0GB1q5L5QJPrEYYt-G7ExrZrDLDHXJYymzVoIYFchha3lvidb52Rn2yugmjt5Icig-M7GOeSw8LMqFboFt_cqwiNpMRPXSYpTeZt1EqXtI79rReyj8wxKAqcHqF4j61uyTPUbHCE0fHSbeeVgj61QDzLoC4-wXxQeLDRpz6HhNZglGR4VkZB38OxMZQ-6Q7G8Ab7A7VGZySRvH-qwbnX8G2er4ku6hskovOall1GFxZpARxqZjishbUGZHS6TcJL_8NPRDYIVDeKe5rvKY4Tcm9WofglPdIgSirr8g3kFR7L2wFW5xG99XIWURxUXhA
+
+<> 2020-09-16T034731.400.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+<> 2020-09-16T024256.200.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+<> 2020-09-16T024202.200.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+<> 2020-09-16T024153.200.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+<> 2020-09-16T024032.200.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+<> 2020-09-16T023445.200.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+<> 2020-09-16T015646.200.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjdiODFmNWEwMDE2NThmZjg5ZWU3YmFmY2M2NGMxNmJkNDQzNDA0MmZhMjg0OGUyYmIzOTQwNzM4YTdlNDU3ZmViMTBjMjcwMzdiYjhjMzciLCJpYXQiOjE2MDAyNTcxMDgsIm5iZiI6MTYwMDI1NzEwOCwiZXhwIjoxNjMxNzkzMTA4LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.bGLmtCIhxvAVoYQmf4CIwQfameNkfJuIyq9JWitl8A--m6qMkquNwtxIWykZwBlhejG1kSWZi56d5ad-0nqwRd5LwDENG5lhgvaGUZKD0nFnKm7euCcVFxKqiWDyYiiPp_Dx53kDRJBRSER_W-TZJxbMI9b2a9NjQ40Ff5Fyh7D0XHSAZY-tjA5LO1eBhRKcZrdZzq9GJie5PZdRML8VzG_AMIEiyUHOMBW8YU0YHXsykuwZ8vwf28Vo5raUVSCjZ1c6qBuyQdm19cF4Jyr1HeYOPEeGS0BzlFGwUoVh9jzpJmGFH-hue7qygQynxoczlZVzIn6k6P_CqGVvzSreU-00UJY_VapvjrT5kcdRGJ-fDivTfn8M9VsR0tgXywnsk5foh44kLaD-pbZGRnrismfdj7mKoyh1m9eA4w9PSm5uNdLCpZnngLcK0kP86sahNVZatqaetE6RU5sLLJfxJjDLUUTjaYqddUc0QxtU4eSFL0BVDzGvJ7k0l2cKLyK4VqXvM7oZASlZX-ereizaL9RuykkMF18cML5vAQyRq54mleBaOG15MscdpbH27kXaORw6V-z3cLyZP6-RxR_nWRq6Jw0555ljsGGuegOWbmPg40ntR7hsAOqRIJ4tEMEmNwg5Qj_Dv9TupwI6Gs_7DGQp2QOtdSWNBtqL78_WFns
+
+<> 2020-09-16T015240.400.json
+
+###
+
+POST http://localhost:8001/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T015148.200.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDg5MDg0ZDkxYjFiNGRiNWQ2YTdmODY0YTFkYTZkMWI3Y2Q0OThmN2RjOWQ2ZmVmN2I2OTIxZjE1YTJkODcxZGJjNjg5OWU2ZGI1ZWEwMzQiLCJpYXQiOjE2MDAyNTIyOTYsIm5iZiI6MTYwMDI1MjI5NiwiZXhwIjoxNjMxNzg4Mjk2LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.pt7r3KGeaJmS65EnIoZQNNyziK8U07plR30zxz5pTTK4NEToERFkUWBAo6c0EU9hH4CWJXFQGOLzuQeHYOAx9Z2dZ3qvYCpM4KBr2iXzzwqtSQBgtoVMiNhB70zo7k3u_EcGmMm6RknZ-6Fkt-8vhSoDFh5TyQ5Pcd3Tkdys_xVsAD6Wka3KbGq2wkcdS1ZFdWx7y_qvkiC2v1J_k6fpSKzOTOKlYho_z10-tCbMz2XWdrZODXS6tHYq_VihS2bGa6LriuaYDGJznCQz5fiC9yGb6s0eyPdzYELQGxvogxynw5DwEEAe7hwDUqhxFZHmuJSh0CYTx35ExW9Yu5C4FGXxpKXW902H9lwwk-Glg1AAkERoBeZqSE6N9eyvknIiKkXNDwfWDlnBF5C_m-JbKSNWKi4tRHLZFHD0Zte8XrH-kbP5TwRDT5dcMFBHEQB4nDd4ffEiOBw16MXtO52vrdXlK2VgLa_VQpCcPsILg0NDGTqCUUQxXQDo--avCs1F4sCA36snjCgcPRr8s05FnKUqf8DsXtU5VoiakKCDVEtHW1O6isEYT36kQ3y6Xlbv6AmRITrolFSTwQ2j_ZeNtForpTlNp8NB7JqbxnKdb0rAA3HDPX_IPBEQBXXyQ7ZIR-GrNjOLTjLyVTQjHxWtezjUrXdo2MhwOzebvJ1Ud_8
+
+<> 2020-09-16T011001.200.json
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDg5MDg0ZDkxYjFiNGRiNWQ2YTdmODY0YTFkYTZkMWI3Y2Q0OThmN2RjOWQ2ZmVmN2I2OTIxZjE1YTJkODcxZGJjNjg5OWU2ZGI1ZWEwMzQiLCJpYXQiOjE2MDAyNTIyOTYsIm5iZiI6MTYwMDI1MjI5NiwiZXhwIjoxNjMxNzg4Mjk2LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.pt7r3KGeaJmS65EnIoZQNNyziK8U07plR30zxz5pTTK4NEToERFkUWBAo6c0EU9hH4CWJXFQGOLzuQeHYOAx9Z2dZ3qvYCpM4KBr2iXzzwqtSQBgtoVMiNhB70zo7k3u_EcGmMm6RknZ-6Fkt-8vhSoDFh5TyQ5Pcd3Tkdys_xVsAD6Wka3KbGq2wkcdS1ZFdWx7y_qvkiC2v1J_k6fpSKzOTOKlYho_z10-tCbMz2XWdrZODXS6tHYq_VihS2bGa6LriuaYDGJznCQz5fiC9yGb6s0eyPdzYELQGxvogxynw5DwEEAe7hwDUqhxFZHmuJSh0CYTx35ExW9Yu5C4FGXxpKXW902H9lwwk-Glg1AAkERoBeZqSE6N9eyvknIiKkXNDwfWDlnBF5C_m-JbKSNWKi4tRHLZFHD0Zte8XrH-kbP5TwRDT5dcMFBHEQB4nDd4ffEiOBw16MXtO52vrdXlK2VgLa_VQpCcPsILg0NDGTqCUUQxXQDo--avCs1F4sCA36snjCgcPRr8s05FnKUqf8DsXtU5VoiakKCDVEtHW1O6isEYT36kQ3y6Xlbv6AmRITrolFSTwQ2j_ZeNtForpTlNp8NB7JqbxnKdb0rAA3HDPX_IPBEQBXXyQ7ZIR-GrNjOLTjLyVTQjHxWtezjUrXdo2MhwOzebvJ1Ud_8
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDg5MDg0ZDkxYjFiNGRiNWQ2YTdmODY0YTFkYTZkMWI3Y2Q0OThmN2RjOWQ2ZmVmN2I2OTIxZjE1YTJkODcxZGJjNjg5OWU2ZGI1ZWEwMzQiLCJpYXQiOjE2MDAyNTIyOTYsIm5iZiI6MTYwMDI1MjI5NiwiZXhwIjoxNjMxNzg4Mjk2LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.pt7r3KGeaJmS65EnIoZQNNyziK8U07plR30zxz5pTTK4NEToERFkUWBAo6c0EU9hH4CWJXFQGOLzuQeHYOAx9Z2dZ3qvYCpM4KBr2iXzzwqtSQBgtoVMiNhB70zo7k3u_EcGmMm6RknZ-6Fkt-8vhSoDFh5TyQ5Pcd3Tkdys_xVsAD6Wka3KbGq2wkcdS1ZFdWx7y_qvkiC2v1J_k6fpSKzOTOKlYho_z10-tCbMz2XWdrZODXS6tHYq_VihS2bGa6LriuaYDGJznCQz5fiC9yGb6s0eyPdzYELQGxvogxynw5DwEEAe7hwDUqhxFZHmuJSh0CYTx35ExW9Yu5C4FGXxpKXW902H9lwwk-Glg1AAkERoBeZqSE6N9eyvknIiKkXNDwfWDlnBF5C_m-JbKSNWKi4tRHLZFHD0Zte8XrH-kbP5TwRDT5dcMFBHEQB4nDd4ffEiOBw16MXtO52vrdXlK2VgLa_VQpCcPsILg0NDGTqCUUQxXQDo--avCs1F4sCA36snjCgcPRr8s05FnKUqf8DsXtU5VoiakKCDVEtHW1O6isEYT36kQ3y6Xlbv6AmRITrolFSTwQ2j_ZeNtForpTlNp8NB7JqbxnKdb0rAA3HDPX_IPBEQBXXyQ7ZIR-GrNjOLTjLyVTQjHxWtezjUrXdo2MhwOzebvJ1Ud_8
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDg5MDg0ZDkxYjFiNGRiNWQ2YTdmODY0YTFkYTZkMWI3Y2Q0OThmN2RjOWQ2ZmVmN2I2OTIxZjE1YTJkODcxZGJjNjg5OWU2ZGI1ZWEwMzQiLCJpYXQiOjE2MDAyNTIyOTYsIm5iZiI6MTYwMDI1MjI5NiwiZXhwIjoxNjMxNzg4Mjk2LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.pt7r3KGeaJmS65EnIoZQNNyziK8U07plR30zxz5pTTK4NEToERFkUWBAo6c0EU9hH4CWJXFQGOLzuQeHYOAx9Z2dZ3qvYCpM4KBr2iXzzwqtSQBgtoVMiNhB70zo7k3u_EcGmMm6RknZ-6Fkt-8vhSoDFh5TyQ5Pcd3Tkdys_xVsAD6Wka3KbGq2wkcdS1ZFdWx7y_qvkiC2v1J_k6fpSKzOTOKlYho_z10-tCbMz2XWdrZODXS6tHYq_VihS2bGa6LriuaYDGJznCQz5fiC9yGb6s0eyPdzYELQGxvogxynw5DwEEAe7hwDUqhxFZHmuJSh0CYTx35ExW9Yu5C4FGXxpKXW902H9lwwk-Glg1AAkERoBeZqSE6N9eyvknIiKkXNDwfWDlnBF5C_m-JbKSNWKi4tRHLZFHD0Zte8XrH-kbP5TwRDT5dcMFBHEQB4nDd4ffEiOBw16MXtO52vrdXlK2VgLa_VQpCcPsILg0NDGTqCUUQxXQDo--avCs1F4sCA36snjCgcPRr8s05FnKUqf8DsXtU5VoiakKCDVEtHW1O6isEYT36kQ3y6Xlbv6AmRITrolFSTwQ2j_ZeNtForpTlNp8NB7JqbxnKdb0rAA3HDPX_IPBEQBXXyQ7ZIR-GrNjOLTjLyVTQjHxWtezjUrXdo2MhwOzebvJ1Ud_8
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T123351.400.json
+
+###
+
+POST http://localhost:8000/api/user
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDg5MDg0ZDkxYjFiNGRiNWQ2YTdmODY0YTFkYTZkMWI3Y2Q0OThmN2RjOWQ2ZmVmN2I2OTIxZjE1YTJkODcxZGJjNjg5OWU2ZGI1ZWEwMzQiLCJpYXQiOjE2MDAyNTIyOTYsIm5iZiI6MTYwMDI1MjI5NiwiZXhwIjoxNjMxNzg4Mjk2LCJzdWIiOiIyMSIsInNjb3BlcyI6WyJhZG1pbiJdfQ.pt7r3KGeaJmS65EnIoZQNNyziK8U07plR30zxz5pTTK4NEToERFkUWBAo6c0EU9hH4CWJXFQGOLzuQeHYOAx9Z2dZ3qvYCpM4KBr2iXzzwqtSQBgtoVMiNhB70zo7k3u_EcGmMm6RknZ-6Fkt-8vhSoDFh5TyQ5Pcd3Tkdys_xVsAD6Wka3KbGq2wkcdS1ZFdWx7y_qvkiC2v1J_k6fpSKzOTOKlYho_z10-tCbMz2XWdrZODXS6tHYq_VihS2bGa6LriuaYDGJznCQz5fiC9yGb6s0eyPdzYELQGxvogxynw5DwEEAe7hwDUqhxFZHmuJSh0CYTx35ExW9Yu5C4FGXxpKXW902H9lwwk-Glg1AAkERoBeZqSE6N9eyvknIiKkXNDwfWDlnBF5C_m-JbKSNWKi4tRHLZFHD0Zte8XrH-kbP5TwRDT5dcMFBHEQB4nDd4ffEiOBw16MXtO52vrdXlK2VgLa_VQpCcPsILg0NDGTqCUUQxXQDo--avCs1F4sCA36snjCgcPRr8s05FnKUqf8DsXtU5VoiakKCDVEtHW1O6isEYT36kQ3y6Xlbv6AmRITrolFSTwQ2j_ZeNtForpTlNp8NB7JqbxnKdb0rAA3HDPX_IPBEQBXXyQ7ZIR-GrNjOLTjLyVTQjHxWtezjUrXdo2MhwOzebvJ1Ud_8
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T123342.400.json
+
+###
+
+POST http://localhost:8001/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T123136.200.json
+
+###
+
+POST http://localhost:8001/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T122428.200.json
+
+###
+
+POST http://localhost:8001/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T122355.200.json
+
+###
+
+POST http://localhost:8001/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T122352.200.json
+
+###
+
+POST http://localhost:8002/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T122029.200.json
+
+###
+
+POST http://localhost:8001/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+###
+
+POST http://localhost:8001/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T121640.200.json
+
+###
+
+POST http://localhost:8002/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T121600.500.json
+
+###
+
+POST http://localhost:8002/api/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "email": "admin@admin.com",
+    "password": "password",
+    "scope": "admin"
+}
+
+<> 2020-09-16T121459.500.json
+
+###
+

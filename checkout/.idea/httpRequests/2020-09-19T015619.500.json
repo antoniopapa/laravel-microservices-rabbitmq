@@ -1,0 +1,272 @@
+{
+    "message": "Trying to access array offset on value of type null",
+    "exception": "ErrorException",
+    "file": "/app/vendor/antoniopapa/common/src/User.php",
+    "line": 15,
+    "trace": [
+        {
+            "file": "/app/vendor/antoniopapa/common/src/User.php",
+            "line": 15,
+            "function": "handleError",
+            "class": "Illuminate\\Foundation\\Bootstrap\\HandleExceptions",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/antoniopapa/common/src/UserService.php",
+            "line": 58,
+            "function": "__construct",
+            "class": "Microservices\\User",
+            "type": "->"
+        },
+        {
+            "file": "/app/app/Http/Controllers/LinkController.php",
+            "line": 14,
+            "function": "get",
+            "class": "Microservices\\UserService",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php",
+            "line": 48,
+            "function": "show",
+            "class": "App\\Http\\Controllers\\LinkController",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+            "line": 255,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+            "line": 197,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 691,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 128,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php",
+            "line": 41,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 167,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
+            "line": 127,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
+            "line": 103,
+            "function": "handleRequest",
+            "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
+            "line": 55,
+            "function": "handleRequestUsingNamedLimiter",
+            "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 167,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 103,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 693,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 668,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 634,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 623,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 166,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 128,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 167,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 167,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 167,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php",
+            "line": 87,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 167,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/fruitcake/laravel-cors/src/HandleCors.php",
+            "line": 57,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 167,
+            "function": "handle",
+            "class": "Fruitcake\\Cors\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/fideloper/proxy/src/TrustProxies.php",
+            "line": 57,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 167,
+            "function": "handle",
+            "class": "Fideloper\\Proxy\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 103,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 141,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 110,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/app/public/index.php",
+            "line": 52,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/app/server.php",
+            "line": 21,
+            "function": "require_once"
+        }
+    ]
+}
